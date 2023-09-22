@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhanbb&label=Profile%20views&color=0e75b6&style=flat" alt="emirhanbb" /> </p>
 
 
-- 🌱 I’m currently learning **Python, Flutter, Kotlin,**
+- 🌱 I’m currently learning **Kotlin,**
 
 - 👨‍💻 All of my projects are available at [https://www.emirhanbulbul.com/#portfolio](https://www.emirhanbulbul.com/#portfolio)
 
-- 💬 Ask me about **Flutter, Kotlin**
+- 💬 Ask me about **Android, Kotlin**
 
 - 📫 How to reach me **emirrhanbulbul@gmail.com**
 
