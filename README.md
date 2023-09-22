@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, what's up?</h1>
-<h3 align="center">I am a computer engineering student at Ataturk University.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhanbulbul&label=Profile%20views&color=0e75b6&style=flat" alt="emirhanbulbul" /> </p>
 
 
